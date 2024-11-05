@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <p style="font-size: 16px; color: #666; margin-top: 15px;">File size: ~150 MB</p>
+  <p style="font-size: 16px; color: #666; margin-top: 15px;">File size: ~117 MB</p>
 </div>
 
 ## 🚀 Unlock Your Full Potential in GTA 5!
@@ -76,16 +76,17 @@ Seize the opportunity to become a top-tier **GTA 5** player. With **Kiddions Men
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/eyL69RQ.jpg" width="550" height="300" />
-  <img src="https://i.imgur.com/6ToWppm.jpg" width="550" height="300" />
-  <img src="https://i.imgur.com/CwkRPVS.jpg" width="550" height="300" />
-  <img src="https://i.imgur.com/PSIQuFO.jpg" width="550" height="300" />
-  <img src="https://i.imgur.com/z8mdkbU.jpg" width="550" height="300" />
-  <img src="https://i.imgur.com/hIvm9vG.jpg" width="550" height="300" />
+  <img src="https://imgur.com/vZIpMQF.jpg" width="750" height="500" />
+<img src="https://imgur.com/pYkPgQ5.jpg" width="750" height="500" />
+  <img src="https://imgur.com/4XV1r9B.jpg" width="750" height="500" />
 </div>
 
 ## 🔗 Tags
 
+- Download Kiddions Modest
+- Menu Kiddions GTA
+- Free Kiddions Menu
+- Kiddions Menu
 - GTA 5 Hack
 - Cheat GTA 5
 - Kiddions Menu GTA 5
